@@ -5,8 +5,6 @@
 
 - 🌱 Şu anda **Java Spring Boot ve React.js öğreniyorum**
 
-- 📝 Düzenli olarak [https://medium.com/@eakyol1020](https://medium.com/@eakyol1020)
-
 - 📫 Bana nasıl ulaşılır... **eakyol1020@gmail.com**
 
 <h3 align="left">Connect with me:</h3><
