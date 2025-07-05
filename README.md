@@ -1,12 +1,18 @@
 <h2 align="left">Hi 👋! My name is Elif and I'm a Full Stack Developer, from Turkey</h2>
 
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Elifakyol1020&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Elifakyol1020&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Elifakyol1020&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+###
+
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZzN20wZ3lkY2pxYzJ0amN1cGcxd3RiczA5c2k2d29tNWczOGx5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6FxJBpNTBgWdJCXKD4/giphy.gif"  />
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -44,8 +50,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
 </div>
 
+###
+
 <div align="left">
-  <a href="https://www.linkedin.com/in/elif-akyol-7aa4a52b5/" target="_blank">
+  <a href="www.linkedin.com/in/eliffakylll" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://medium.com/@eakyol1020" target="_blank">
@@ -53,8 +61,14 @@
   </a>
 </div>
 
+###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/Elifakyol1020/count.svg?"  />
 </div>
 
+###
+
 <img src="https://raw.githubusercontent.com/Elifakyol1020/Elifakyol1020/output/snake.svg" alt="Snake animation" />
+
+###
