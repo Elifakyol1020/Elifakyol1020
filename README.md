@@ -66,9 +66,3 @@
 <img src="https://raw.githubusercontent.com/Elifakyol1020/Elifakyol1020/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Elifakyol1020/count.svg?"  />
-</div>
-
-###
