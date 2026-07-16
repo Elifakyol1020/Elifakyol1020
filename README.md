@@ -4,26 +4,40 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=24&pause=1000&color=E48DB0&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Elif+%F0%9F%8C%B8;I+build+useful+and+creative+software+%E2%9C%A8;Welcome+to+my+little+corner+of+GitHub+%F0%9F%92%97" />
 
-<br/>
+<br>
 
 </div>
 
-<h3 align="center">About Me</h3>
-<table align="center">
-  <tr>
-    <td width="220" align="center">
-      <img src="https://via.placeholder.com/180x180.png?text=Elif+Avatar" width="180" alt="Elif Avatar"/>
-    </td>
-    <td>
-      
-- Hi, I'm **Elif Akyol**
-- Full Stack Developer passionate about building useful and creative software
-- I love turning ideas into real projects and improving myself every day
-- I like creating clean, functional and aesthetic digital experiences
 
-    </td>
-  </tr>
-</table>
+<h3 align="center">About Me</h3>
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/Elifakyol1020/Elifakyol1020/main/image1.png"
+  width="220"
+  align="left"
+  alt="Elif Akyol Avatar"
+/>
+
+<div align="left">
+
+<br>
+
+🌷 Hi, I'm **Elif Akyol**
+
+💻 Full Stack Developer passionate about building useful and creative software
+
+✨ I love turning ideas into real projects and improving myself every day
+
+🎀 I like creating clean, functional and aesthetic digital experiences
+
+</div>
+
+<br clear="both">
+
+</div>
+
+<br>
 
 <h3 align="center">My Tech Stack</h3>
 
