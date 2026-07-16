@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,14,18,20&text=Elif%20Akyol&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descSize=18&descAlignY=59&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=BA7E9B&text=Elif%20Akyol&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descSize=18&descAlignY=59&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=24&pause=1000&color=E48DB0&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Elif+%F0%9F%8C%B8;I+build+useful+and+creative+software+%E2%9C%A8;Welcome+to+my+little+corner+of+GitHub+%F0%9F%92%97" />
 
@@ -83,4 +83,4 @@
   <i>Thank you for visiting my little corner of GitHub 🌷</i>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,14,18,20&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=BA7E9B&section=footer"/>
