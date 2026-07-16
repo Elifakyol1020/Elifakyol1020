@@ -1,10 +1,14 @@
-<h2 align="center">Hi 🎀! My name is Elif and I'm a Full Stack Developer, from Türkiye</h2>
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Elifakyol1020/Elifakyol1020/main/image.png" width="50%" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,14,18,20&text=Elif%20Akyol&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descSize=18&descAlignY=59&animation=fadeIn"/>
 
-<h3 align="center">My Tech Stack 👾</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=24&pause=1000&color=E48DB0&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Elif+%F0%9F%8C%B8;I+build+useful+and+creative+software+%E2%9C%A8;Spring+Boot+%E2%80%A2+React+%E2%80%A2+Docker+%E2%80%A2+PostgreSQL;Welcome+to+my+little+corner+of+GitHub+%F0%9F%92%97" />
+
+<br/>
+
+</div>
+
+<h3 align="center">My Tech Stack</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,spring,html,css,js,python,bootstrap,redis,docker,fastapi,git,gitlab,java,prometheus,jenkins,dart,figma,c,mongodb,mysql,selenium" />
@@ -13,29 +17,38 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elifakyol1020&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Elifakyol1020&layout=compact&langs_count=6&theme=dracula" height="150"/>
+<a href="https://www.linkedin.com/in/elif-akyol-7aa4a52b5">
+  <img src="https://img.shields.io/badge/LinkedIn-E48DB0?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://medium.com/@eakyol1020">
+  <img src="https://img.shields.io/badge/Medium-C98BA3?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+<a href="BURAYA_PORTFOLIO_LINKINI_YAZ">
+  <img src="https://img.shields.io/badge/ElifOS-BA7E9B?style=for-the-badge"/>
+</a>
 </div>
 
 <br>
 
-<div align="center">
-  <a href="https://linkedin.com/in/eliffakylll/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://medium.com/@eakyol1020">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elifakyol1020&bg_color=0d1117&color=e8a4c4&line=e48db0&point=f4c2d7&area=true&area_color=7d415f&hide_border=true&title_color=e8a4c4"/>
 </div>
 
 <br>
 
+<div  align="center">
 <img src="https://raw.githubusercontent.com/Elifakyol1020/Elifakyol1020/output/snake.svg" alt="Snake animation" />
+</div>
 
 <br>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Elifakyol1020.Elifakyol1020&left_color=pink&right_color=purple"/>
 </div>
+
+<br/>
+
+<div  align="center">
+  <i>Thank you for visiting my little corner of GitHub 🌷</i>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,14,18,20&section=footer"/>
